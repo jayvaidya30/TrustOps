@@ -361,29 +361,6 @@ Must Demonstrate:
 ✅ Trust score changes live
 ✅ Agent quarantine scenario
 
----
-
-# ⏱ Execution Plan
-
----
-
-## Day 1 Goal
-
-Working incident pipeline:
-Logs → Detection → Incident → Alert
-
----
-
-## Day 2 Goal
-
-Security + Demo:
-Trust scoring
-Tool guard
-Quarantine
-Dashboard visualization
-
----
-
 # 🚨 Out Of Scope (Do NOT Build)
 
 - Complex ML anomaly models
