@@ -425,13 +425,3 @@ Working Demo > Perfect Architecture
 
 Security + Observability + Orchestration = Winning Project
 
----
-
-If you want, I can also generate:
-
-✅ `AGENT_CONTEXT.md` (only for AI agents to read)
-✅ `ARCHITECTURE.md` (deep technical diagrams explanation)
-✅ `API_CONTRACT.md` (exact request/response formats between modules)
-✅ `SETUP.md` (step-by-step local setup guide for team)
-
-Just tell me 👍
